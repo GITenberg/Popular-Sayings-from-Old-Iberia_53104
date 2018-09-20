@@ -1,5 +1,5 @@
 _repo: Popular-Sayings-from-Old-Iberia_53104
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compilers:
   - agent_name: Fréchette, Annie Howells
@@ -17,7 +17,12 @@ contributor:
     deathdate: 1888
     gutenberg_agent_id: '5881'
     url: http://www.gutenberg.org/2009/agents/5881
+covers:
+- cover_type: archival
+  image_path: 53104-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53104#Popular-Sayings-from-Old-Iberia
 gutenberg_issued: '2016-09-20'
 gutenberg_type: Text
 identifiers:
