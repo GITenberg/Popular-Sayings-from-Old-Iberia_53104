@@ -1,0 +1,34 @@
+_repo: Popular-Sayings-from-Old-Iberia_53104
+_version: 0.0.1
+contributor:
+  compilers:
+  - agent_name: Fréchette, Annie Howells
+    aliases:
+    - Howells, Annie
+    - Frechette, Annie Howells
+    gutenberg_agent_id: '48882'
+    url: http://www.gutenberg.org/2009/agents/48882
+  - agent_name: Premio-Real, comte de
+    aliases:
+    - Premio Real, Eduardo Miranda y Ramirez Marques de
+    - Premio Real, Eduardo Miranda y Ramírez Marqués de
+    - Premio-Real, Eduardo Miranda y Ramirez
+    birthdate: 1840
+    deathdate: 1888
+    gutenberg_agent_id: '5881'
+    url: http://www.gutenberg.org/2009/agents/5881
+description: ''
+gutenberg_issued: '2016-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Proverbs, Spanish'
+- GITenberg
+title: Popular Sayings from Old Iberia
+url: http://www.gutenberg.org/ebooks/53104
